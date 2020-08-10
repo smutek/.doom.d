@@ -2,14 +2,12 @@
 
 I've recently switched from Spacemacs to Doom for my Emacs base config and am loving it.
 
-Whaty is Doom Emacs? See below!
+What is Doom Emacs? It's a base set of configuration for Emacs. See below for more info!
 
-Doom Emacs: https://github.com/hlissner/doom-emacs
+- Doom Emacs: https://github.com/hlissner/doom-emacs
+- There is a great playlist on YouTube by Zaiste Programming. Link to playlist: [Zaiste Programming, Doom Emacs playlist on YouTube](https://youtu.be/rCMh7srOqvw)
+- These tutorials by DistroTube are helpful as well. Link to playlist: [Distro Tube Doom Emacs Tutorials](https://www.youtube.com/playlist?list=PLyy8KUDC8P7X6YkegqrnEnymzMWCNB4bN)
 
+Though Emacs can do just about anything (seriously!), I love to use Emacs primarilly for writing in [Org Mode](https://orgmode.org), Markdown, general writing and general mucking around with code and light coding jobs. I prefer my JetBrains IDE's for large projects.
 
-There is a great playlist on YouTube by Zaiste Programming.
-
-Link to playlist: [Zaiste Programming, Doom Emacs playlist on YouTube](https://youtu.be/rCMh7srOqvw)
-
-These tutorials by DistroTube are helpful as well.
-Link to playlist: [Distro Tube Doom Emacs Tutorials](https://www.youtube.com/playlist?list=PLyy8KUDC8P7X6YkegqrnEnymzMWCNB4bN)
+I'll grow this config over time, but right now Doom Emacs is workign really well for me right out of the box, with little customization.
